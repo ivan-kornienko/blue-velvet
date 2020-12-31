@@ -1,0 +1,17 @@
+.lead {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    gap: 80px 40px;
+    justify-items: center;
+
+    padding-top: 60px;
+
+    max-width: 980px;
+
+    margin: 0;
+    padding: 0;
+    padding-top: 70px;
+
+
+}

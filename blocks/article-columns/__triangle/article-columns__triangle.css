@@ -1,0 +1,15 @@
+.article-columns__triangle {
+    background-image: url(./article-columns__triangle.svg);
+    background-size: 240px;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 240px;
+
+    /*transition: transform 1s ease;
+
+    overflow: hidden;
+}
+
+.article-columns__triangle:hover {
+    transform: translate(-1000px, 0px);
+}*/

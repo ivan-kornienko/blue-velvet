@@ -1,0 +1,33 @@
+.article-columns__author {
+    margin: 0;
+
+    color: var(--text-color);
+
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--text-color);
+
+    grid-column: 2;
+    grid-row: 3;
+
+    margin: 0;
+    padding: 0;
+
+    align-self: flex-end;
+
+    margin-top: 190px;
+    padding-top: 20px;
+    border-top: 1px solid var(--text-color);
+}
+
+.article-columns__author:before {
+    content: "by  ";
+    font-family: Savoye;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 36px;
+    color: var(--text-color);
+
+}

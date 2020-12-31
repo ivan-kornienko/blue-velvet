@@ -1,0 +1,44 @@
+/* vendor */
+@import url(../vendor/normalize.css);
+
+/* fonts */
+@import url(../fonts/fonts.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__border/header__border.css);
+
+/* heading */
+@import url(../blocks/heading/heading.css);
+
+/* chart */
+@import url(../blocks/chart/chart.css);
+@import url(../blocks/chart/__brace/chart__brace.css);
+@import url(../blocks/chart/__cell-caption/chart__cell-caption.css);
+@import url(../blocks/chart/__cell-caption/_xl/chart__cell-caption_xl.css);
+@import url(../blocks/chart/__cell-title/chart__cell-title.css);
+@import url(../blocks/chart/__cell/chart__cell.css);
+@import url(../blocks/chart/__table/chart__table.css);
+@import url(../blocks/chart/__title/chart__title.css);
+
+/* caption */
+@import url(../blocks/caption/caption.css);
+@import url(../blocks/caption/__item/caption__item.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+/* button */
+@import url(../blocks/button/button.css);
+
+/* content */
+@import url(../blocks/content/content.css);
+
+

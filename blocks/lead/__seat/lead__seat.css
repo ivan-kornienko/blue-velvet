@@ -1,0 +1,25 @@
+.lead__seat {
+    width: 208px;
+    height: 97px;
+    /*border: 1px solid var(--text-color);
+    border-radius: 50%;*/
+
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: var(--text-color);
+
+    margin: 0;
+    padding: 0;
+
+    grid-row: 1;
+
+    background-image: url(./_right/lead__seat_right.svg);
+    background-size: 110px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+

@@ -1,0 +1,23 @@
+.lead__author {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--text-color);
+
+    grid-column: 2;
+    grid-row: 3;
+
+    margin: 0;
+    padding: 0;
+}
+
+.lead__author:before {
+    content: "by  ";
+    font-family: Savoye;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 36px;
+    color: var(--text-color);
+
+}

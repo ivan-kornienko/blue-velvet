@@ -1,0 +1,13 @@
+.chart__table {
+    display: grid;
+    grid-template-columns: repeat(4, 110px);
+    grid-template-rows: 2;
+    gap: 50px;
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    grid-column: 3;
+    grid-row: 1;
+}

@@ -1,0 +1,17 @@
+.lead__title {
+    font-family: Savoye;
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 78px;
+    text-align: center;
+
+    max-width: 482px;
+    color: var(--text-color);
+
+    grid-column: 2;
+    grid-row: 2;
+
+    margin: 0;
+    padding: 0;
+}
+

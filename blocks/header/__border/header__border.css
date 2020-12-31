@@ -1,0 +1,9 @@
+.header__border {
+    width: 4px;
+    height: 100vh;
+    background-image: url(./header_border.svg);
+
+    position: fixed;
+    right: 60px;
+    top: 0px;    
+}

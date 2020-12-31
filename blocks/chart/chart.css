@@ -1,0 +1,13 @@
+.chart {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(min-content, max-content));
+    gap: 60px;
+    grid-template-rows: auto;
+    /*justify-items: center;*/
+
+    justify-content: start;
+    align-content: center;
+    /*padding-top: 180px;*/
+
+    padding-top: 130px;
+}

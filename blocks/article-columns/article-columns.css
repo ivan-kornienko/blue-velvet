@@ -1,0 +1,13 @@
+.article-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    /*display: grid;
+    grid-template-columns: repeat(2, fit-content(374px));
+    grid-template-rows: auto;
+    gap: 50px;*/
+
+    max-width: 1080px;
+
+    /*padding: 0 0 0 440px;*/
+}

@@ -1,0 +1,14 @@
+.heading {
+    width: 1080px;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--text-color);
+    margin: 0;
+    padding: 90px 0 20px 0;
+
+    border-bottom: 1px solid var(--text-color);
+
+
+}

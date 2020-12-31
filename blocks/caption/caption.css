@@ -1,0 +1,8 @@
+.caption {
+    display: grid;
+    grid-template-columns: repeat(4, 110px);
+    grid-template-rows: 2;
+    gap: 50px;
+
+    padding: 70px 0px 0px 425px;
+}

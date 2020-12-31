@@ -1,0 +1,18 @@
+.chart__title {
+    grid-column: 1;
+    grid-row: 1;
+
+    margin: 0;
+    padding: 0;
+
+    align-self: center;
+    justify-self: center;
+
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: var(--text-color);
+
+    max-width: 160px;
+
+}
